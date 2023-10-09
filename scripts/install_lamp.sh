@@ -29,4 +29,3 @@ cp ../php/index.php /var/www/html
 
 #Modificamos el propietario y el grupo del directorio /var/www/html
 chrow -R www.data:www-data /var/www/html
-
