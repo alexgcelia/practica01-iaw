@@ -14,7 +14,7 @@
 ![5](https://user-images.githubusercontent.com/114919653/234558982-675f345d-7c4d-4978-8969-7e307c539a26.png)
 ![6](https://user-images.githubusercontent.com/114919653/234559014-0d2c1517-9d3d-47d8-9466-f71db8263861.png)
 
-6.  Nos conectamos a la máquina mediante ssh con el comando "ssh -i "vockey.pem" ubuntu@ec2-54-87-142-52.compute-1.amazonaws.com".
+6.  Nos conectamos a la máquina mediante ssh con el comando "ssh -i "vockey.pem" ubuntu@3.217.35.163".
 
 ![7](https://user-images.githubusercontent.com/114919653/234559030-4643b9a9-a7ab-40f4-881f-c97fb5bd97c8.png)
 
