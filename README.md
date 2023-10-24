@@ -80,7 +80,7 @@ mysql -u root <<< "CREATE USER'$APP_USER'@'%'  IDENTIFIED BY '$APP_PASSWORD'"
 mysql -u root <<< "GRANT ALL PRIVILEGES ON *.* TO '$APP_USER'@'%'"
 
 ### Instalamos Adminer
-#Creamos el directorio para Adminer
+### Creamos el directorio para Adminer
 mkdir -p /var/www/html/adminer
 ### Descargamos el archivo de Adminer
 wget https://github.com/vrana/adminer/releases/download/v4.8.1/adminer-4.8.1-mysql.php -P /var/www/html/adminer
